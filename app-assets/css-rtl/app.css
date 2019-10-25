@@ -784,16 +784,16 @@ body.vertical-layout.vertical-menu.menu-expanded .main-menu-footer .content {
 
 .vertical-layout.menu-expanded .menu-icon-right ul.navigation li > a:after {
   right : 2px;
-  left : initial !important;
+  
 }
 
 .vertical-layout.menu-expanded .menu-icon-right ul.navigation li > a > i {
-  float : left !important;
-  margin : 0 12px 0 0;
+ 
+  
 }
 
 .horizontal-layout .navbar-icon-right ul.nav > li > a:after {
-  float : right;
+ 
   position : relative;
   top : 27px;
   right : -16px;
