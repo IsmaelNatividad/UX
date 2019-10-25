@@ -446,7 +446,7 @@ Bootstrap Enhance */
   padding : 10px 20px;
   margin-top : 10px;
   text-transform : uppercase;
-  color : #818A91;
+
 }
 .dropdown .dropdown-menu .dropdown-item {
   padding : 10px 20px;
@@ -750,9 +750,7 @@ button:focus {
 .header-navbar.navbar-semi-dark {
   background : #FFFFFF;
 }
-.header-navbar.navbar-semi-dark .navbar-header {
-  background : #1D2B36;
-}
+
 .header-navbar.navbar-semi-dark .navbar-nav li {
   line-height : 1;
 }

@@ -566,8 +566,7 @@ button:focus {
       color: #eceeef; }
   .header-navbar.navbar-semi-dark {
     background: #FFFFFF; }
-    .header-navbar.navbar-semi-dark .navbar-header {
-      background: #1D2B36; }
+    
     .header-navbar.navbar-semi-dark .navbar-nav li {
       line-height: 1; }
     .header-navbar.navbar-semi-dark .navbar-nav .nav-link {
